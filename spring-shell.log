@@ -1,0 +1,28 @@
+1604260106506:help
+1604260132483:clear
+1604260161206:help help
+1604260203557:help
+1604260272522:login --username test1 --password 23
+1604260293680:login --username 1 --password 1
+1604260343841:login --username user1 --password 1
+1604261037187:help
+1604261048887:login
+1604261074692:login --username user1 --password 1
+1604261080046:logout
+1604261099990:logout --username user1 --password 1
+1604261135892:logouq --username 1 --password 2
+1604261152287:logout --username wer --password 34
+1604261211844:help
+1604261250520:logout
+1604261269052:login --username user1 password 1
+1604261288827:login --username user1 --password 1
+1604261293556:logout
+1604261957097:help
+1604263257145:search-product --text desc
+1604263823017:help
+1604263855560:search-product --text text
+1604263890568:search-product --text 2
+1604264419963:help
+1604264453633:add-to-card --product '005,Camera'
+1604264483992:search-product --text 005
+1604265381199:help
